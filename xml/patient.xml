@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE abchosp SYSTEM "patient.dtd"> -->
+
+<abchosp>
+    <patient>
+        <PID>P9472038</PID>
+        <name>Nivedya</name>
+        <age>21</age>
+        <gender>F</gender>
+        <DOB>06-11-2001</DOB>
+        <nationality>Indian</nationality>
+        <mobileno>7568209824</mobileno>
+        <address>ABCXJDKN..</address>
+    </patient>
+    <patient>
+        <PID>P8472028</PID>
+        <name>John</name>
+        <age>25</age>
+        <gender>M</gender>
+        <DOB>07-03-1998</DOB>
+        <nationality>Indian</nationality>
+        <mobileno>839749820</mobileno>
+        <address>Abcdjej</address>
+    </patient>
+    <patient>
+        <PID>P264759</PID>
+        <name>Jane</name>
+        <age>45</age>
+        <gender>F</gender>
+        <DOB>03-09-1976</DOB>
+        <nationality>Indian</nationality>
+        <mobileno>93974902</mobileno>
+        <address>ABCJDKJHnsk</address>
+    </patient>
+</abchosp>

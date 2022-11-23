@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!ELEMENT abchosp (patient)>
+    <!ELEMENT patient (PID,name,age,gender,DOB,nationality,mobileno,address)>
+    <!ELEMENT PID (CDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ELEMENT gender (#PCDATA)>
+    <!ELEMENT DOB (#PCDATA)>
+    <!ELEMENT nationality (#PCDATA)>
+    <!ELEMENT address (#PCDATA)>
